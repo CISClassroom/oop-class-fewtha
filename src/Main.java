@@ -12,8 +12,6 @@ public class Main {
         System.out.println("1. " + few.name + " "+ few.major);
         Student[] oopStudents = {few,};
         System.out.println("1. "+oopStudents[0].name);
-
-
         
         find_CIS_Student(oopStudents);
 
